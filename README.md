@@ -2,9 +2,6 @@
 
 PROGRAM OBJECT ORIENTED
 
-![Screenshot (98)](https://user-images.githubusercontent.com/115479895/205728685-5238c7d1-5b25-47bd-97a6-179fa432df8a.png)
-
-
 Yang pertama kita Harus Membuat List
 Contoh:
 ist_nim = []
@@ -14,7 +11,15 @@ list_uts = []
 list_uas = []
 list_ipk = []
 
+
+![Screenshot (98)](https://user-images.githubusercontent.com/115479895/205728685-5238c7d1-5b25-47bd-97a6-179fa432df8a.png)
+
+
+
+
 Setelah  Membuat List Lalu Bikin program Menampilkan data List Yang Telah diBuat
+
+
 def tampilData (self):
         n = 0
         print("\nJumlah Mahasiswa Yang Sudah TerInput : ")
@@ -29,6 +34,9 @@ def tampilData (self):
                 print("Masukkan Nilai UAS : ",list_uas[i])
                 print("ipk Mahasiswa : ",list_ipk[i])
                 print("--------------------------------------------------------------------")
+
+
+
 ![Screenshot (96)](https://user-images.githubusercontent.com/115479895/205730098-1f568c4a-5c56-4d58-8c22-b8bf22745a0e.png)
 
 Setelah Sudah  Bikin List Tampilkan Data Lalu
