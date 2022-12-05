@@ -1,4 +1,4 @@
-# PRAKTIKUM 8
+# Pratikum 8
 
 PROGRAM OBJECT ORIENTED
 
